@@ -87,3 +87,19 @@ JavaScript     >>> Dynamic
 > tictactogame
 
 > github 
+
+//////////////////
+html > main tag of website
+head > All the links(Css,Js)
+     > Except title nothing will be visible 
+body > All the content of the website that is visible
+
+
+Block
+> They always start from new line
+> Occupies the completed width of screen
+> p div h1
+Inline
+> Start in same line
+> Only take the width of content
+> span img a
