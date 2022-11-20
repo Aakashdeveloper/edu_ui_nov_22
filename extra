@@ -103,3 +103,48 @@ Inline
 > Start in same line
 > Only take the width of content
 > span img a
+
+
+/////////
+Inline
+styletag
+stylesheet
+
+Inline>styletag>stylesheet
+
+Inline
+{
+    color:red;
+    font-size:30px;
+}
+
+styletag
+{
+    color:orange;
+    height:300px;
+    border-radius:40%
+}
+
+stylesheet
+{
+    height:400px;
+    font-size:40px;
+    width:200px
+}
+
+{
+    color:red;
+    font-size:30px;
+    height:300px;
+    border-radius:40%;
+    width:200px
+}
+
+
+Name
+image
+about you
+skills
+map
+copyright
+scoial tags
