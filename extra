@@ -148,3 +148,19 @@ skills
 map
 copyright
 scoial tags
+
+/////// Targeting ////////
+> TagName
+(to target element using tag)
+(only prefer when tag is unique)
+> ClassName
+(to target multiple element with same property)
+*  (.)
+> Id
+( to target unique element)
+*  (#)
+
+
+/////////
+position:absolute
+position:relative

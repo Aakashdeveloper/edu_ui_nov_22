@@ -1,0 +1,37 @@
+header{
+    text-align:center
+}
+
+/*Main Card*/
+#main{
+    margin-left:2%;
+    display: inline-block;
+}
+.card{
+    height:400px;
+    width:20%;
+    background-color:#5193b6;
+    float:left;
+    margin:2%;
+    overflow: scroll;
+    text-align:center;
+}
+.card img {
+    height:50%;
+    width:100%
+}
+
+.mybrown{
+    background-color:#baaa9b;
+}
+#myblue{
+    background-color:#a3cae1;
+}
+.mycolor{
+    background-color:#bd7c68
+}
+
+/*Footer*/
+footer{
+    text-align: center;
+}
