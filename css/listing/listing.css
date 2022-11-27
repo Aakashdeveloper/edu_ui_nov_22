@@ -1,0 +1,138 @@
+body{
+    margin: auto;
+}
+a{
+    text-decoration: none
+}
+@font-face{
+    font-family: myfont;
+    src:url
+}
+header{
+    height:60px;
+    /* border:5px solid red; */
+    background:#3b2632;
+    font-family: myfont;
+}
+#brand{
+    color:white;
+    font-size:30px;
+    float: left;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+#social{
+    float: right;
+    margin-right: 1%;   
+}
+.slogo{
+    height:50px;
+    width: 50px;
+}
+
+/* Footer */
+footer{
+    height:160px;
+    /* border:5px solid rgb(255, 0, 85); */
+    background:#3b2632;
+    margin-top: 2%;
+    color:white;
+    text-align:center;
+}
+
+.footDiv{
+    float:left;
+    height:90px;
+    width:32%;
+    border-right: 2px solid white;
+}
+
+.foottext{
+    font-size:20px
+}
+
+ul{
+    list-style-type: none;
+}
+
+.noBorder{
+    border:none
+}
+
+@media screen and (max-width:1600px){
+    body{
+        background-color:#d1c9cd
+    }
+}
+
+@media screen and (max-width:1400px){
+    body{
+        background-color:#d6b9e5
+    }
+}
+
+@media screen and (max-width:1200px){
+    body{
+        background-color:#b9d9e5
+    }
+    #heading {
+        margin-left: 26%;
+        margin-top: 21%;
+    }
+    #dropdown {
+        margin-top: 30%;
+    }
+
+}
+
+@media screen and (max-width:1000px){
+    body{
+        background-color:#edf7bb
+    }
+    .tileContainer{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:800px){
+    body{
+        background-color:#bbf7bf
+    }
+    .tileContainer{
+        width: 80%;
+    }
+    #quickSearch{
+        margin-left: 16%;
+    }
+    #logo{
+        margin-left: 37%;
+    }
+    #heading {
+        margin-left: 16%;
+        margin-top: 25%;
+        font-size: 55px;
+    }
+    #dropdown {
+        margin-top: 34%;
+        width: 73%;
+        margin-left: 16%;
+    }
+}
+
+@media screen and (max-width:500px){
+    body{
+        background-color:#f7bbbf
+    }
+    #heading {
+        margin-left: 0%;
+        margin-top: 31%;
+        font-size: 47px;
+    }
+    #dropdown {
+        margin-top: 52%;
+        width: 100%;
+        margin-left: 0%;
+    }
+    
+    
+}
