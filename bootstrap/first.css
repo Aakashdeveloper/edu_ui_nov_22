@@ -1,0 +1,53 @@
+.btn-purple{
+    background-color: blueviolet !important;
+}
+
+.editicon{
+ color:green;
+ font-size: 20px;
+}
+
+.trashicon{
+    color:red;
+    font-size: 20px;
+}
+
+.item > img{
+   height:350px !important;
+   width:100% 
+}
+
+#first{
+    height:200px;
+    background-color: skyblue;
+}
+
+#second{
+    height:200px;
+    background-color: rgb(173, 238, 157);
+}
+
+#third{
+    height:200px;
+    background-color: rgb(233, 240, 145);
+}
+
+#fourth{
+    height:200px;
+    background-color: rgb(243, 159, 177);
+}
+
+#fifth{
+    height:200px;
+    background-color: rgb(164, 163, 236);
+}
+
+#sixth{
+    height:200px;
+    background-color: rgb(226, 178, 159);
+}
+
+#seventh{
+    height:200px;
+    background-color: rgb(214, 157, 195);
+}
