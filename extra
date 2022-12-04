@@ -21,9 +21,13 @@ JavaScript     >>> Dynamic
 > DataTypes
 > variable
 > alert console prompt
-> Operations
+> github 
 > String literals
+> Operations
 > Math
+/////////////////////////
+
+
 > let, const
 > String Operations
 > localStorage
@@ -39,6 +43,7 @@ JavaScript     >>> Dynamic
 > Functions
 > Rest
 > spread
+
 > Es6
     > maps,filter
 > regex
@@ -57,8 +62,8 @@ JavaScript     >>> Dynamic
     > classes
 > Prototypes
 > DoM
-
 > Calc
+
 > Form validation
 > Event
 > dummyAPi jsonserver 
@@ -69,6 +74,7 @@ JavaScript     >>> Dynamic
 > currenyConvertor
 > promis
 > async await
+
 > debouncing
 > Progress bar
 > Coupon popup
@@ -80,13 +86,12 @@ JavaScript     >>> Dynamic
 > Weather application
 > ajax
 > DataTables
-
 > fabonicci
 > factorial
 > palindrome
 > tictactogame
 
-> github 
+
 
 //////////////////
 html > main tag of website
@@ -187,3 +192,10 @@ xs < 768px
 sm > 768px
 md > 992px
 lg > 1200px
+
+Bootstrap4
+col < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
