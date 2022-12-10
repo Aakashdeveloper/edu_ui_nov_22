@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <script src="first.js"></script>
+        <style>
+            #coupons{
+                height:400px;
+                width:400px;
+                background-color:purple;
+                margin: auto;
+                margin-top:10%;
+                display: none;
+            }
+            .mydark{
+                background-color:rgb(37, 36, 36);
+                color:white;
+            }
+        </style>
+        
+    </head>
+    <body>
+       <div id="coupons">
+           <button onclick="closeCoupon()">&times;</button>
+        </div>
+        <script>
+            window.onload = showCoupons()
+        </script>
+    </body>
+</html>

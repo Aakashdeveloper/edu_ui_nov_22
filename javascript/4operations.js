@@ -44,9 +44,8 @@ a == c
 false
 
 var a = 10
-undefined
 var b = 20
-undefined
+
 a>b
 false
 a<b

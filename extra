@@ -25,14 +25,11 @@ JavaScript     >>> Dynamic
 > String literals
 > Operations
 > Math
-/////////////////////////
-
-
 > let, const
-> String Operations
 > localStorage
 > sessionStorage
 > cookies
+> String Operations
 > condition
 > if else
 > ternary Operations
@@ -43,9 +40,16 @@ JavaScript     >>> Dynamic
 > Functions
 > Rest
 > spread
-
 > Es6
     > maps,filter
+> screen
+> set interval
+> set timeout
+> DoM
+> Calc
+> dark/light mode
+> Coupon popup
+/////////////////////////
 > regex
 > Closures
 > Hoisting
@@ -61,23 +65,15 @@ JavaScript     >>> Dynamic
 > Es6
     > classes
 > Prototypes
-> DoM
-> Calc
-
 > Form validation
 > Event
 > dummyAPi jsonserver 
-> dark/light mode
-> screen
-> set interval
-> set timeout
+
 > currenyConvertor
 > promis
 > async await
-
 > debouncing
 > Progress bar
-> Coupon popup
 > Geolocation
 > Call/Apply
 > Dynamic DropDown
