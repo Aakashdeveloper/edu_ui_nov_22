@@ -49,34 +49,34 @@ JavaScript     >>> Dynamic
 > Calc
 > dark/light mode
 > Coupon popup
-/////////////////////////
 > regex
 > Closures
 > Hoisting
-> destructuring
-> JSON
 > object 
+> JSON
+> this
+> destructuring
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-> this
 > Es6
     > classes
 > Prototypes
 > Form validation
 > Event
 > dummyAPi jsonserver 
-
 > currenyConvertor
 > promis
 > async await
+/////////////////////////
+> Dynamic DropDown
 > debouncing
 > Progress bar
 > Geolocation
 > Call/Apply
-> Dynamic DropDown
+
 
 > Basic Jquery
 > Weather application
@@ -195,3 +195,21 @@ sm > 576px
 md > 768px
 lg > 992px
 xl > 1200px
+
+////
+package.json
+> entry point to application
+> contains metadata (name,version,description)
+> what all packages we are using
+
+// step to genearte package.json
+** Nodejs must be installed
+> go inside the folder using cmd
+> npm init -y
+
+
+npm i @babel/core @babel/preset-env @babel/register
+
+
+//dummy api
+> npx json-server --watch data.json --port 1900
